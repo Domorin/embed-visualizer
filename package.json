@@ -1,6 +1,7 @@
 {
   "name": "embed-visualizer",
   "author": "leovoel",
+  "main": "src/index.js",
   "license": "MIT",
   "version": "0.1.0",
   "private": true,
